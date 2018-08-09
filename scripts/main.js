@@ -1,6 +1,6 @@
-document.querySelector('html').onclick = function() {
-    alert('Ouch! Stop poking me!');
-}
+// document.querySelector('html').onclick = function() {
+    // alert('Ouch! Stop poking me!');
+// }
 var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
